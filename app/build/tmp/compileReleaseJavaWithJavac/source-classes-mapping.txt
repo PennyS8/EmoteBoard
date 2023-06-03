@@ -1,0 +1,4 @@
+com/example/emoteboard/BuildConfig.java
+ com.example.emoteboard.BuildConfig
+com/example/emoteboard/EmoteBoard.java
+ com.example.emoteboard.EmoteBoard

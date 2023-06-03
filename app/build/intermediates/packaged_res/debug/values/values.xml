@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="candidate_background">#34495e</color>
+    <color name="candidate_normal">#34495e</color>
+    <color name="candidate_other">#95a5a6</color>
+    <color name="candidate_recommended">#34495e</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="keyboard_background_color">#34495e</color>
+    <color name="keyboard_divider">#2c3e50</color>
+    <color name="keyboard_pressed">#95a5a6</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="candidate_font_height">16sp</dimen>
+    <dimen name="candidate_vertical_padding">6sp</dimen>
+    <dimen name="key_height">50dip</dimen>
+    <string name="app_name">EmoteBoard</string>
+    <string name="general_category">General</string>
+    <string name="ime_name">EmoteBoard</string>
+    <string name="label_go_key">Go</string>
+    <string name="label_next_key">Next</string>
+    <string name="label_send_key">Send</string>
+    <string name="label_subtype_en_GB">English (US)</string>
+    <string name="label_subtype_generic">%s</string>
+    <string name="language_selection_title">Input languages</string>
+    <string name="select_language">Select input languages</string>
+    <string name="settings_name">EmoteBoard Settings</string>
+    <string name="word_separators">\u0020.,;:!?\n()[]*&amp;@{}/&lt;>_+=|"</string>
+    <style name="Theme.EmoteBoard" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

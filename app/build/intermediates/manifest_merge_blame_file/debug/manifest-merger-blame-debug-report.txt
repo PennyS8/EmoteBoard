@@ -1,0 +1,79 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.emoteboard"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\peter\OneDrive\Documents\Projects\EmoteBoard\AndroidCustomKeyboard\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\peter\OneDrive\Documents\Projects\EmoteBoard\AndroidCustomKeyboard\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\peter\OneDrive\Documents\Projects\EmoteBoard\AndroidCustomKeyboard\app\src\main\AndroidManifest.xml:5:5-22:19
+12        android:allowBackup="true"
+12-->C:\Users\peter\OneDrive\Documents\Projects\EmoteBoard\AndroidCustomKeyboard\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] C:\Users\peter\.gradle\caches\transforms-3\170e2dd2b0918f41572f830c482b1049\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Users\peter\OneDrive\Documents\Projects\EmoteBoard\AndroidCustomKeyboard\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->C:\Users\peter\OneDrive\Documents\Projects\EmoteBoard\AndroidCustomKeyboard\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->C:\Users\peter\OneDrive\Documents\Projects\EmoteBoard\AndroidCustomKeyboard\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->C:\Users\peter\OneDrive\Documents\Projects\EmoteBoard\AndroidCustomKeyboard\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.EmoteBoard" >
+20-->C:\Users\peter\OneDrive\Documents\Projects\EmoteBoard\AndroidCustomKeyboard\app\src\main\AndroidManifest.xml:11:9-48
+21        <service
+21-->C:\Users\peter\OneDrive\Documents\Projects\EmoteBoard\AndroidCustomKeyboard\app\src\main\AndroidManifest.xml:12:9-21:19
+22            android:name="com.example.emoteboard.SoftKeyboard"
+22-->C:\Users\peter\OneDrive\Documents\Projects\EmoteBoard\AndroidCustomKeyboard\app\src\main\AndroidManifest.xml:13:13-40
+23            android:exported="false"
+23-->C:\Users\peter\OneDrive\Documents\Projects\EmoteBoard\AndroidCustomKeyboard\app\src\main\AndroidManifest.xml:16:13-37
+24            android:label="EmoteBoard"
+24-->C:\Users\peter\OneDrive\Documents\Projects\EmoteBoard\AndroidCustomKeyboard\app\src\main\AndroidManifest.xml:14:13-39
+25            android:permission="android.permission.BIND_INPUT_METHOD" >
+25-->C:\Users\peter\OneDrive\Documents\Projects\EmoteBoard\AndroidCustomKeyboard\app\src\main\AndroidManifest.xml:15:13-70
+26            <meta-data
+26-->C:\Users\peter\OneDrive\Documents\Projects\EmoteBoard\AndroidCustomKeyboard\app\src\main\AndroidManifest.xml:17:13-87
+27                android:name="android.view.im"
+27-->C:\Users\peter\OneDrive\Documents\Projects\EmoteBoard\AndroidCustomKeyboard\app\src\main\AndroidManifest.xml:17:24-54
+28                android:resource="@xml/method" />
+28-->C:\Users\peter\OneDrive\Documents\Projects\EmoteBoard\AndroidCustomKeyboard\app\src\main\AndroidManifest.xml:17:55-85
+29
+30            <intent-filter>
+30-->C:\Users\peter\OneDrive\Documents\Projects\EmoteBoard\AndroidCustomKeyboard\app\src\main\AndroidManifest.xml:18:13-20:29
+31                <action android:name="android.view.InputMethod" />
+31-->C:\Users\peter\OneDrive\Documents\Projects\EmoteBoard\AndroidCustomKeyboard\app\src\main\AndroidManifest.xml:19:17-66
+31-->C:\Users\peter\OneDrive\Documents\Projects\EmoteBoard\AndroidCustomKeyboard\app\src\main\AndroidManifest.xml:19:25-64
+32            </intent-filter>
+33        </service>
+34
+35        <provider
+35-->[androidx.emoji2:emoji2:1.0.0] C:\Users\peter\.gradle\caches\transforms-3\824f62b6996c99a537a5cc62e51984dc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+36            android:name="androidx.startup.InitializationProvider"
+36-->[androidx.emoji2:emoji2:1.0.0] C:\Users\peter\.gradle\caches\transforms-3\824f62b6996c99a537a5cc62e51984dc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+37            android:authorities="com.example.emoteboard.androidx-startup"
+37-->[androidx.emoji2:emoji2:1.0.0] C:\Users\peter\.gradle\caches\transforms-3\824f62b6996c99a537a5cc62e51984dc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+38            android:exported="false" >
+38-->[androidx.emoji2:emoji2:1.0.0] C:\Users\peter\.gradle\caches\transforms-3\824f62b6996c99a537a5cc62e51984dc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+39            <meta-data
+39-->[androidx.emoji2:emoji2:1.0.0] C:\Users\peter\.gradle\caches\transforms-3\824f62b6996c99a537a5cc62e51984dc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+40                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+40-->[androidx.emoji2:emoji2:1.0.0] C:\Users\peter\.gradle\caches\transforms-3\824f62b6996c99a537a5cc62e51984dc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+41                android:value="androidx.startup" />
+41-->[androidx.emoji2:emoji2:1.0.0] C:\Users\peter\.gradle\caches\transforms-3\824f62b6996c99a537a5cc62e51984dc\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+42            <meta-data
+42-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\peter\.gradle\caches\transforms-3\9c45d4e804cdb5326e88fcdc3f2256cf\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+43                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+43-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\peter\.gradle\caches\transforms-3\9c45d4e804cdb5326e88fcdc3f2256cf\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+44                android:value="androidx.startup" />
+44-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\peter\.gradle\caches\transforms-3\9c45d4e804cdb5326e88fcdc3f2256cf\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+45        </provider>
+46    </application>
+47
+48</manifest>

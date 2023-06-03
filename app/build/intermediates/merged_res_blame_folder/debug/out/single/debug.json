@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\layout_input.xml.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\layout\\input.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\drawable_normal.xml.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\drawable\\normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\drawable_key_background.xml.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\drawable\\key_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-pngs-20:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\layout_key_preview.xml.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\layout\\key_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\layout_keyboard.xml.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\layout\\keyboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\xml_qwerty.xml.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\xml\\qwerty.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\xml_symbols_shift.xml.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\xml\\symbols_shift.xml"
+    },
+    {
+        "merged": "com.example.emoteboard.app-merged_res-24:/xml_symbols.xml.flat",
+        "source": "com.example.emoteboard.app-main-26:/xml/symbols.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\xml_symbols.xml.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\xml\\symbols.xml"
+    },
+    {
+        "merged": "com.example.emoteboard.app-merged_res-24:/xml_symbols_shift.xml.flat",
+        "source": "com.example.emoteboard.app-main-26:/xml/symbols_shift.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\xml_method.xml.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\xml\\method.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-merged_res-24:\\drawable_pressed.xml.flat",
+        "source": "C:\\Users\\peter\\.gradle\\daemon\\8.1.1\\com.example.emoteboard.app-main-26:\\drawable\\pressed.xml"
+    }
+]

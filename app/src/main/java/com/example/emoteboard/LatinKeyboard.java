@@ -20,7 +20,7 @@ import android.content.res.XmlResourceParser;
 import android.graphics.drawable.Drawable;
 import android.inputmethodservice.Keyboard;
 import android.view.inputmethod.EditorInfo;
-import android.view.inputmethod.InputMethodManager;
+
 public class LatinKeyboard extends Keyboard {
     private Key mEnterKey;
     private Key mSpaceKey;
